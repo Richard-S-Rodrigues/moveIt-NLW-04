@@ -1,7 +1,7 @@
 <h1 align='center'> <img src='/public/favicon.png' alt='Logo' width='25px'/> Move.it</h1>
 <hr>
 <p>
-  This is a project made to get devs out of their chairs to do some exercises. That is, exercises for the **body** and **eyes**.
+  This is a project made to get devs out of their chairs to do some exercises.
 
   It's similar to the *Pomodoro technique*, where there is a countdown but, when it ends, a notification is displayed, telling you that is time to take a quick   break.
 </p>
